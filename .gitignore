@@ -1,1 +1,4 @@
 secrets.txt
+env/include
+env/Lib
+env/Scripts
